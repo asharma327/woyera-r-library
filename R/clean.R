@@ -40,8 +40,6 @@ clean <- function(api_key, clean_type, data){
     else{
       stop("There was an error. Try again")
     }
-
-    print(jsonResponse)
   }
 }
 
