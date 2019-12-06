@@ -1,7 +1,7 @@
 Package: woyera
 Type: Package
 Title: Woyera Data Cleaning
-Version: 0.1.0
+Version: 1.0.0
 Author: Woyera Team
 Maintainer: Woyera Team <admin@woyera.com>
 Description: Package to get data from apispreadsheets.com

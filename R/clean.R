@@ -8,8 +8,7 @@
 #' @export
 
 get_base_url <- function(){
-  return("http://127.0.0.1:8000/clean/")
-  # return("https://api-woyera.com/clean/")
+  return("https://api-woyera.com/clean/")
 }
 
 #'
